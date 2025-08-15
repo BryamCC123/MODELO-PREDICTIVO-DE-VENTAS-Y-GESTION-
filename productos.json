@@ -1,0 +1,98 @@
+[
+    {
+        "id": 10,
+        "nombre": "Laptop",
+        "descripcion": "ASUS",
+        "cantidad": 5,
+        "precio": 2000.0,
+        "fecha_ingreso": "2025-08-13"
+    },
+    {
+        "id": 11,
+        "nombre": "PC",
+        "descripcion": "ASUS-ROG",
+        "cantidad": 4,
+        "precio": 3000.0,
+        "fecha_ingreso": "2025-08-13"
+    },
+    {
+        "id": 12,
+        "nombre": "Mouse",
+        "descripcion": "Redragon",
+        "cantidad": 4,
+        "precio": 100.0,
+        "fecha_ingreso": null
+    },
+    {
+        "id": 13,
+        "nombre": "Teclado",
+        "descripcion": "Cybertel",
+        "cantidad": 4,
+        "precio": 100.0,
+        "fecha_ingreso": null
+    },
+    {
+        "id": 14,
+        "nombre": "Tecla",
+        "descripcion": "tecla",
+        "cantidad": 4,
+        "precio": 10.0,
+        "fecha_ingreso": null
+    },
+    {
+        "id": 15,
+        "nombre": "pantalla ",
+        "descripcion": "LCD",
+        "cantidad": 4,
+        "precio": 300.0,
+        "fecha_ingreso": null
+    },
+    {
+        "id": 16,
+        "nombre": "Moneda",
+        "descripcion": "Banco",
+        "cantidad": 4,
+        "precio": 5.0,
+        "fecha_ingreso": null
+    },
+    {
+        "id": 17,
+        "nombre": "cables",
+        "descripcion": "HDMI",
+        "cantidad": 1,
+        "precio": 20.0,
+        "fecha_ingreso": null
+    },
+    {
+        "id": 18,
+        "nombre": "Cinta",
+        "descripcion": "Aislante",
+        "cantidad": 5,
+        "precio": 5.0,
+        "fecha_ingreso": null
+    },
+    {
+        "id": 19,
+        "nombre": "Alicate",
+        "descripcion": "Corte",
+        "cantidad": 1,
+        "precio": 20.0,
+        "fecha_ingreso": null
+    },
+    {
+        "id": 20,
+        "nombre": "Regla",
+        "descripcion": "Metal",
+        "cantidad": 2,
+        "precio": 8.0,
+        "fecha_ingreso": null
+    },
+    {
+        "id": 21,
+        "nombre": "Martillo",
+        "descripcion": "Acero",
+        "cantidad": 1,
+        "precio": 40.0,
+        "fecha_ingreso": null
+    }
+]

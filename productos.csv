@@ -1,0 +1,13 @@
+id,nombre,descripcion,cantidad,precio,fecha_ingreso
+10,Laptop,ASUS,5,2000.00,2025-08-13
+11,PC,ASUS-ROG,4,3000.00,2025-08-13
+12,Mouse,Redragon,4,100.00,
+13,Teclado,Cybertel,4,100.00,
+14,Tecla,tecla,4,10.00,
+15,pantalla ,LCD,4,300.00,
+16,Moneda,Banco,4,5.00,
+17,cables,HDMI,1,20.00,
+18,Cinta,Aislante,5,5.00,
+19,Alicate,Corte,1,20.00,
+20,Regla,Metal,2,8.00,
+21,Martillo,Acero,1,40.00,
